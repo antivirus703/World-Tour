@@ -3,6 +3,6 @@
 Front-End estático voltado para website de turismo.
 Utilizado HTML5, CSS3 e JavaScript.
 
-Deploy via netlify.
+Deploy via netlify.<br>
 Link:<br>
 
