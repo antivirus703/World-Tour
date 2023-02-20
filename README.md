@@ -1,6 +1,6 @@
 # World-Tour
 
-Este é um site de turismo criado com HTML, CSS e JavaScript, e implantado na plataforma de hospedagem Netlify. O objetivo deste site é fornecer informações sobre destinos turísticos populares e ajudar os usuários a planejar suas próximas viagens.
+Este é um site estático de turismo criado com HTML, CSS e JavaScript, e implantado na plataforma de hospedagem Netlify. O objetivo deste site é fornecer informações sobre destinos turísticos populares e ajudar os usuários a planejar suas próximas viagens.
 
 # Características <br>
 <ul>
